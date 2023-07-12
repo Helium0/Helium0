@@ -24,4 +24,18 @@ experience from personal studied and researches.</p>
   
 # Certificates
 
-!(/https://imgur.com/8LS06DI)
+- [Manual Tester](https://i.imgur.com/8LS06DI.jpg)
+
+# Courses
+
+- [Javascript in progress](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/)
+- [REST API in progress](https://www.udemy.com/course/kurs-programowanie-w-javascript-od-zera-do-mastera/)
+- [Dobrekursy.it](https://dobrekursy.it/tester/)
+- [SQL](https://www.w3schools.com/sql/default.asp)
+
+# Books
+
+- K.Jadczyk - Pasja tesowania
+
+# My test case examples
+
