@@ -36,6 +36,3 @@ experience from personal studied and researches.</p>
 # Books
 
 - K.Jadczyk - Pasja tesowania
-
-# My test case examples
-
