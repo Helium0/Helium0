@@ -17,6 +17,7 @@ experience from personal studied and researches.</p>
 
 * SQL
 * Javacript (basic)
+* DevTools
 * SCRUM
 * Software testing
 * Creating test cases
