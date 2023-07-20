@@ -37,3 +37,7 @@ experience from personal studied and researches.</p>
 # Books
 
 - K.Jadczyk - Pasja tesowania
+
+# MINDMAP
+
+![Imgur](https://i.imgur.com/gxPKFPW.png)
