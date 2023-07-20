@@ -38,6 +38,3 @@ experience from personal studied and researches.</p>
 
 - K.Jadczyk - Pasja tesowania
 
-# MINDMAP
-
-![Imgur](https://i.imgur.com/gxPKFPW.png)
