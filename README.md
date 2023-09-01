@@ -26,6 +26,7 @@ experience from personal studied and researches.</p>
 # Certificates
 
 - [Manual Tester](https://i.imgur.com/8LS06DI.jpg)
+- ISTQB basic level
 
 # Courses
 
