@@ -10,14 +10,9 @@ I am a ISTQB certified foundation tester from Poland. I am company owner since 2
 ## 💻 Tech stack:
 <img align="left" alt="visualstudiocode" src="https://img.shields.io/badge/vscode-%230077B5.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" /><img align="left" alt="postman" src="https://img.shields.io/badge/postman-orange.svg?&style=for-the-badge&logo=Postman&logoColor=white" /><img align="left" alt="python" src="https://img.shields.io/badge/python-basic-%23232F3E?svg?&style=for-the-badge&logo=python&logoColor=white" /><img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-basic-%23232F3E?svg?&style=for-the-badge&logo=MySQL&logoColor=white" /><img align="left" alt="jira" src="https://img.shields.io/badge/Jira-%23232F3E?svg?&style=for-the-badge&logo=Jira&logoColor=white" /><img align="left" alt="pycharm" src="https://img.shields.io/badge/pycharm-black?logo=pycharm&logoColor=white&style=for-the-badge" /> <img align="left" alt="googlechrome" src="https://img.shields.io/badge/googlechrome-DevTools-black?logo=googlechrome&logoColor=white&style=for-the-badge" /> <img align="left" alt="testrail" src="https://img.shields.io/badge/testrail-white?logo=testrail&logoColor=green&style=for-the-badge" /> <img align="left" alt="testrail" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" /><br><br>
 
-
 ## My mission:
-* 🎯 Bug tracking 
-* 〽️ Reporting bugs
-* 💀 Executing test cases
-* 💻 Software testing
-* :shipit: Become automate tester
-* 💯 Improve quality assurance
+* 🎯 Bug tracking * 〽️ Reporting bugs * 💀 Executing test cases
+* 💻 Software testing * 💯 Improve quality assurance * :shipit: Become automate tester
 
 ## Certificates:
 - [Manual Tester](https://i.imgur.com/8LS06DI.jpg)
