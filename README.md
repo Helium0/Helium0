@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a ISTQB certified foundation tester from Poland. I am company owner since 2016. I sell digital keys on platforms like Kinguin.com or Allegro.pl. Recently I have started to interest software testing. My goal is to develop testing knowledge and technical skills. I see huge potential in this industry and I want learn something new. On this site I would like to share my all gained experience from personal studied and researches.
-- 🌱 I’m currently learning Python/JAVA
+- 🌱 I’m currently learning Python/Java
 - ⚡ Fun fact: I can sleep everywhere especially in public transport
 - 🔭 I’m currently working on testing websites and finding bugs
 
