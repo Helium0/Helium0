@@ -32,7 +32,7 @@ I am a ISTQB certified foundation tester from Poland. I have started to interest
 
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helium0&hide=javascript,css,scss,html&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Helium0&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
@@ -58,5 +58,3 @@ I am a ISTQB certified foundation tester from Poland. I have started to interest
 - K.Jadczyk - "Pasja tesowania"
 - A.R.Lucjan - "Certyfikowany tester ISTQB poziom podstawowy"
 - A.Pelikant - "MsSQLserver - Zaawansowane metody programowania"
-
-
