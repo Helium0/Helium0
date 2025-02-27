@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a ISTQB certified foundation tester from Poland. I have started to interest software testing in 2023. My goal is to develop testing knowledge and technical skills. I see huge potential in this industry and I wanted learn something new. On this site I would like to share my experience which I gained from personal studies and researches.
-- 🌱 I’m currently learning Java programing language
+- 🌱 I have been learning Java since March 2024
 - ⚡ Fun fact: I can sleep everywhere especially in public transport
 - 🔭 I have been working as a Junior Software Tester since November 2023
 
